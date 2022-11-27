@@ -33,8 +33,26 @@ Then in your terminal:
 
 <h4> RUNNING THE TEST</h4>
 <p> In your terminal run </p>
+
 ```$ npm install```
-<p> Then run ```$ npm test``` to see the current status of the tests in the terminal. For the moment, all of the tests fail</p>
-<p> After passing all the tests , you can run ```$ git add .``` , then ```$ git commit -m ""``` to add a  commit then ```$ git push``` to push the project to the github.
+
+<p> Then run 
+ 
+ ```$ npm test```
+ 
+ to see the current status of the tests in the terminal. For the moment, all of the tests fail</p>
+<p> After passing all the tests , you can run 
+ 
+ ```$ git add .``` 
+ 
+ , then 
+ 
+ ```$ git commit -m ""``` 
+ 
+ to add a  commit then 
+ 
+ ```$ git push``` 
+ 
+ to push the project to the github.
 
 
